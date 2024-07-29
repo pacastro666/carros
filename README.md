@@ -27,3 +27,8 @@ python manage.py migrate
 
 criando superusuario no django
 python manage.py createsuperuser
+
+criando o arquivo de dependencias
+pip freeze > requirements.txt
+depois basta executar
+pip install -r requirements.txt
