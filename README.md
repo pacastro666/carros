@@ -32,3 +32,6 @@ criando o arquivo de dependencias
 pip freeze > requirements.txt
 depois basta executar
 pip install -r requirements.txt
+
+adicionando o campo images no python precisa instalar o Pillow
+python -m pip install Pillow
