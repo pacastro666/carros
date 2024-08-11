@@ -5,8 +5,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>meus carros</title>
 </head>
+{% block content %}
 <body>
-   <h1>Carros do seu Ze</h1> 
-   <h3>so carros top</h3>
+    {% for car in cars %}
+        <h3> tipo :{{car.model}} modelo:{{car.brand}} ano:{{car.factory_year}} </h3>
+    {% endfor %}
 </body>
+{% endblock %}
 </html>
