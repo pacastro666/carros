@@ -35,3 +35,6 @@ pip install -r requirements.txt
 
 adicionando o campo images no python precisa instalar o Pillow
 python -m pip install Pillow
+
+para melhor visualizacao das pastas instalei no vscod 
+material icon theme
