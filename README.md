@@ -38,3 +38,8 @@ python -m pip install Pillow
 
 para melhor visualizacao das pastas instalei no vscod 
 material icon theme
+
+
+criando uma nova app para registro de usuarios
+python manage.py startapp accounts
+e registrar em settings.py
