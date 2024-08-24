@@ -43,3 +43,12 @@ material icon theme
 criando uma nova app para registro de usuarios
 python manage.py startapp accounts
 e registrar em settings.py
+
+instalando o postgreSql
+https://www.postgresql.org/download/
+
+no prompt de comando executar o comando psql -U postres
+e adicionar a senha criada
+
+instalando gerenciador do postgre
+https://www.pgadmin.org/download/
