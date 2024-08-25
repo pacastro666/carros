@@ -52,3 +52,4 @@ e adicionar a senha criada
 
 instalando gerenciador do postgre
 https://www.pgadmin.org/download/
+
